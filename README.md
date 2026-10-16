@@ -1,4 +1,4 @@
-# bifana_camk2
+# bifurcation_analysis_camk2
 
 Bifurcation analysis of CaMKII phosphorylation, based on the Graupner & Brunel (2007)
 model of CaMKII auto-phosphorylation and PP1 dephosphorylation.
